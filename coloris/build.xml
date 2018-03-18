@@ -302,9 +302,12 @@
             </sources>
             <sources dir="${basedir}">
                 <file name="src/resource.js"/>
+                <file name="src/Util.js"/>
                 <file name="src/ui.js"/>
+                <file name="src/StageList.js"/>
                 <file name="src/TitleScene.js"/>
                 <file name="src/GameScene.js"/>
+                <file name="src/StageSelectScene.js"/>
                 <file name="src/app.js"/>
                 <file name="main.js"/>
 
