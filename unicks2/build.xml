@@ -299,6 +299,7 @@
                 <file name="src/Util.js"/>
                 <file name="src/ui.js"/>
                 <file name="src/GameScene.js"/>
+                <file name="src/Field.js"/>
                 <file name="main.js"/>
 
             </sources>
