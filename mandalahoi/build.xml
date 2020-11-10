@@ -306,6 +306,7 @@
                 <file name="src/ui/button.js"/>
                 <file name="src/ui/dialog.js"/>
                 <file name="src/ui/label.js"/>
+                <file name="src/ui/tab_layer.js"/>
                 <file name="src/ui/scroll_view.js"/>
                 <file name="src/ui/animated_counter.js"/>
                 <file name="src/home_scene.js"/>
